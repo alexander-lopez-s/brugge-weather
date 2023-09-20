@@ -36,13 +36,13 @@ body, h1, h2, ul, li {
 
 
 .card {
-  background-color: #ffffff;
+  background-color: grey;
   border: 1px solid #e0e0e0;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 20px;
   width: 150px;
-  height: 150px;
+  height: 160px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -59,13 +59,13 @@ body, h1, h2, ul, li {
 
 .card h5 {
   font-size: 24px;
-  color: #333;
+  color: rgb(248, 242, 242);
   margin-bottom: 10px;
 }
 
 .card p {
   font-size: 20px;
-  color: #555;
+  color: rgb(248, 246, 246);
 }
 
 ul {
